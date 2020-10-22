@@ -68,6 +68,7 @@ const resumeData = {
   ],
   projects: [
     {
+      key: "1",
       name: "LuckyPot",
       description:
         "An innovative solution to planning potlucks. Built with React.",
@@ -75,12 +76,14 @@ const resumeData = {
       url: "https://github.com/barbmich/luckypot",
     },
     {
+      key: "2",
       name: "Jungle",
       description: "A mini e-commerce application built with Rails 4.2.",
       imgurl: "",
       url: "https://github.com/dcoughlin12/jungle-ruby",
     },
     {
+      key: "3",
       name: "Interview Scheduler",
       description:
         "Single Page Schedule app that allows users to book, edit and delete interviews.",
@@ -88,6 +91,7 @@ const resumeData = {
       url: "https://github.com/dcoughlin12/scheduler",
     },
     {
+      key: "4",
       name: "GoodBuy",
       description:
         "Full stack web application that allows users to buy and sell goods and services.",
@@ -95,6 +99,7 @@ const resumeData = {
       url: "https://github.com/dcoughlin12/buyandsell",
     },
     {
+      key: "5",
       name: "Tweeter",
       description: "Single page Twitter clone.",
       // imgurl: "images/portfolio/phone.jpg",

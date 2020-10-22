@@ -14,7 +14,10 @@ export default function Contact(props) {
                   <h4 className="text-uppercase m-0">Location</h4>
                   <hr className="my-4" />
                   <div className="small text-black-50">
-                    Ottawa, Ontario, Canada <span role="img">🇨🇦</span>
+                    Ottawa, Ontario, Canada{" "}
+                    <span role="img" aria-label="flag">
+                      🇨🇦
+                    </span>
                   </div>
                 </div>
               </div>

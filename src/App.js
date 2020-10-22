@@ -13,7 +13,7 @@ import resumeData from "./resumeData";
 
 export default function App() {
   return (
-    <body id="page-top">
+    <div id="page-top">
       <Navbar />
       <Header resumeData={resumeData} />
       <About resumeData={resumeData} />
@@ -27,6 +27,6 @@ export default function App() {
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
       {/* <!-- Core theme JS--> */}
       <script src="./js/scripts.js"></script>
-    </body>
+    </div>
   );
 }

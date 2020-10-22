@@ -33,7 +33,10 @@ export default function Projects(props) {
               if (side) {
                 side = false;
                 return (
-                  <div className="row justify-content-center no-gutters mb-5 mb-lg-0">
+                  <div
+                    key={item.key}
+                    className="row justify-content-center no-gutters mb-5 mb-lg-0"
+                  >
                     <div className="col-lg-6">
                       <img
                         className="img-fluid"
@@ -64,7 +67,10 @@ export default function Projects(props) {
               if (!side) {
                 side = true;
                 return (
-                  <div className="row justify-content-center no-gutters">
+                  <div
+                    key={item.key}
+                    className="row justify-content-center no-gutters"
+                  >
                     <div className="col-lg-6">
                       <img
                         className="img-fluid"
