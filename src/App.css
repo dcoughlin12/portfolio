@@ -10577,6 +10577,7 @@ body {
 #mainNav {
   min-height: 3.5rem;
   background-color: #fff;
+  /* background-color: #323232; */
 }
 #mainNav .navbar-toggler {
   font-size: 80%;
@@ -10595,7 +10596,8 @@ body {
 #mainNav .navbar-nav .nav-item:hover {
   color: fade(#fff, 80%);
   outline: none;
-  background-color: transparent;
+  /* background-color: transparent; */
+  background-color: #323232;
 }
 #mainNav .navbar-nav .nav-item:active,
 #mainNav .navbar-nav .nav-item:focus {
@@ -10607,7 +10609,8 @@ body {
     padding-top: 0;
     padding-bottom: 0;
     border-bottom: none;
-    background-color: transparent;
+    /* background-color: transparent; */
+    background-color: #323232;
     transition: background-color 0.3s ease-in-out;
   }
   #mainNav .navbar-brand {
@@ -10673,7 +10676,7 @@ body {
       rgba(0, 0, 0, 0.7) 75%,
       #000000 100%
     ),
-    url("./assets/img/bg-masthead.jpg");
+    url("./assets/img/lake_mountains.jpeg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;

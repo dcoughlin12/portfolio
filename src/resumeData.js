@@ -66,35 +66,40 @@ const resumeData = {
       skillname: "ReactJS",
     },
   ],
-  portfolio: [
+  projects: [
     {
       name: "LuckyPot",
       description:
         "An innovative solution to planning potlucks. Built with React.",
       imgurl: "",
+      url: "https://github.com/barbmich/luckypot",
     },
     {
       name: "Jungle",
       description: "A mini e-commerce application built with Rails 4.2.",
       imgurl: "",
+      url: "https://github.com/dcoughlin12/jungle-ruby",
     },
     {
       name: "Interview Scheduler",
       description:
         "Single Page Schedule app that allows users to book, edit and delete interviews.",
       imgurl: "",
+      url: "https://github.com/dcoughlin12/scheduler",
     },
     {
       name: "GoodBuy",
       description:
         "Full stack web application that allows users to buy and sell goods and services.",
       imgurl: "",
+      url: "https://github.com/dcoughlin12/buyandsell",
     },
     {
       name: "Tweeter",
       description: "Single page Twitter clone.",
       // imgurl: "images/portfolio/phone.jpg",
       imgurl: "",
+      url: "https://github.com/dcoughlin12/tweeter",
     },
   ],
   testimonials: [

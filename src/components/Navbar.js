@@ -5,7 +5,7 @@ export default function NavBar(props) {
     <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
       <div class="container">
         <a class="navbar-brand js-scroll-trigger" href="#page-top">
-          Portfolio - Devin Coughlin
+          Devin Coughlin
         </a>
         <button
           class="navbar-toggler navbar-toggler-right"
@@ -32,7 +32,12 @@ export default function NavBar(props) {
               </a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#signup">
+              <a class="nav-link js-scroll-trigger" href="#skills">
+                Skills
+              </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#contact">
                 Contact
               </a>
             </li>
