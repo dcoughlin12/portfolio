@@ -2,13 +2,13 @@ import React from "react";
 
 export default function Skills(props) {
   return (
-    <section class="signup-section" id="skills">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-10 col-lg-8 mx-auto text-center">
-            <i class="fas fa-laptop-code fa-2x mb-2 text-white"></i>
-            <h2 class="text-white mb-5">Technical Skills</h2>
-            <div class="text-white mb-5">
+    <section className="signup-section" id="skills">
+      <div className="container">
+        <div className="row">
+          <div className="col-md-10 col-lg-8 mx-auto text-center">
+            <i className="fas fa-laptop-code fa-2x mb-2 text-white"></i>
+            <h2 className="text-white mb-5">Technical Skills</h2>
+            <div className="text-white mb-5">
               <p>
                 <strong>Languages: </strong>Javascript (ES6), Ruby, HTML5, CSS3
               </p>
