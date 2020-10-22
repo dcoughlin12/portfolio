@@ -98,6 +98,7 @@ export default function Projects(props) {
                   </div>
                 );
               }
+              return <p>.</p>;
             })}
         </div>
       </section>
