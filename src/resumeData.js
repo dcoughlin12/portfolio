@@ -102,7 +102,6 @@ const resumeData = {
       key: "5",
       name: "Tweeter",
       description: "Single page Twitter clone.",
-      // imgurl: "images/portfolio/phone.jpg",
       imgurl: "",
       url: "https://github.com/dcoughlin12/tweeter",
     },
