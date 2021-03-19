@@ -11,7 +11,7 @@ export default function Header(props) {
             <h1 className="mx-auto my-0 text-uppercase">{resumeData.name}</h1>
             <h2 className="text-white-50 mx-auto mt-2 mb-5">
               {/* I am a {resumeData.role}. {resumeData.roleDescription} */}
-              Full-Stack Web Developer, thriving on innovation. I enjoy building
+              Frontend Web Developer, thriving on innovation. I enjoy building
               creative applications that solve complex problems.
             </h2>
             <ul className="social">
