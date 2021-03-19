@@ -69,6 +69,13 @@ const resumeData = {
   projects: [
     {
       key: "1",
+      name: "Fantasy That (in progress",
+      description: "Dailt fantasy hockey pick-em app",
+      imgurl: "",
+      url: "https://github.com/dcoughlin12/fantasy_that",
+    },
+    {
+      key: "2",
       name: "LuckyPot",
       description:
         "An innovative solution to planning potlucks. Built with React.",
@@ -76,14 +83,14 @@ const resumeData = {
       url: "https://github.com/barbmich/luckypot",
     },
     {
-      key: "2",
+      key: "3",
       name: "Jungle",
       description: "A mini e-commerce application built with Rails 4.2.",
       imgurl: "",
       url: "https://github.com/dcoughlin12/jungle-ruby",
     },
     {
-      key: "3",
+      key: "4",
       name: "Interview Scheduler",
       description:
         "Single Page Schedule app that allows users to book, edit and delete interviews.",
@@ -91,7 +98,7 @@ const resumeData = {
       url: "https://github.com/dcoughlin12/scheduler",
     },
     {
-      key: "4",
+      key: "5",
       name: "GoodBuy",
       description:
         "Full stack web application that allows users to buy and sell goods and services.",
@@ -99,7 +106,7 @@ const resumeData = {
       url: "https://github.com/dcoughlin12/buyandsell",
     },
     {
-      key: "5",
+      key: "6",
       name: "Tweeter",
       description: "Single page Twitter clone.",
       imgurl: "",
