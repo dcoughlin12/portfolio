@@ -69,7 +69,7 @@ const resumeData = {
   projects: [
     {
       key: "1",
-      name: "Fantasy That (in progress",
+      name: "Fantasy That (in progress)",
       description: "Dailt fantasy hockey pick-em app",
       imgurl: "",
       url: "https://github.com/dcoughlin12/fantasy_that",
