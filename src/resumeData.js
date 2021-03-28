@@ -19,7 +19,7 @@ const resumeData = {
     },
   ],
   aboutme:
-    "Heavy equipment salesman turned full stack web developer. My education and job experience have led me down a few different paths, leaving me always wanting more. One thing has remained consistent throughout, that is, my love for technology. I aspire to build innovative applications by seeking out creative solutions to complex problems",
+    "I aspire to build innovative applications by seeking out creative solutions to complex problems",
   address: "India",
   website: "https://ivy555.github.io",
   education: [
